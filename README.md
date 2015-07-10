@@ -8,8 +8,9 @@ We would like to provide a way to handle those constrains with a simple and univ
 
 1. You work on a `master` branch
 2. You create a new branch called `fix-bug1`
-3. Something (TBD - that project) catch that change and will create and setup a new database from a starting point (TDB - default to your `master` database or last branch you work on).
-4. You checkout the branch and your website
+3. Something (TBD - that project) catch that change and will create and setup a new database from a starting point (TDB - default to your `master` database or last branch you work on)
+4. You checkout the branch and your website is automaticaly connected to databse `fix-bug1`
+5. If you checkout master, switch back to `master` database
 
 ## Dependencies and needs
 
