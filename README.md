@@ -16,7 +16,6 @@ We would like to provide a way to handle those constrains with a simple and univ
 1. Git
   * git branch
   * git checkout
-  * git hooks to trigger action
 2. Environnement variables support to easily switch between databases in your project
   * Most of current language already handle the use of environnement variables.
 3. MySQL - for a starting point
@@ -24,8 +23,11 @@ We would like to provide a way to handle those constrains with a simple and univ
   * Database creation
   * Database setup
 
-## Studiing tools
-* Docker may probably help to easily handle databases steps
+## Next steps - Studiing tools
+* Git hooks to trigger actions?
+* Bash script or Golang for the script language?
+* Options/Params availables?
+* Docker? Can probably help to easily handle databases steps
 
 ## Other projects or articles to look at
 
