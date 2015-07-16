@@ -26,7 +26,7 @@ We would like to provide a way to handle those constrains with a simple and univ
 
 ## Next steps - Studiing tools
 * Git hooks to trigger actions?
-* Bash script or Golang for the script language?
+* Script language? We need someting, as much as possible, OS-agnostic and language-agnostic, as Bash script or Golang cli tools
 * Options/Params availables?
 * Docker? Can probably help to easily handle databases steps
 
