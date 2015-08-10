@@ -25,7 +25,8 @@ We would like to provide a way to handle those constrains with a simple and univ
   * Database setup
 
 ## Next steps - Studiing tools
-* Git hooks to trigger actions?
+* Git hooks to trigger actions
+  * Hook post-checkout should be OK. 
 * Script language? We need someting, as much as possible, OS-agnostic and language-agnostic, as Bash script or Golang cli tools
 * Options/Params availables?
 * Docker? Can probably help to easily handle databases steps
